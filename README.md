@@ -12,5 +12,3 @@ Graduation outcomes - The percentage of students who graduated and other outcome
 Demographics - Demographic information for each school
 School survey - Surveys of parents, teachers, and students at each school
 New York City has a significant immigrant population and is very diverse, so comparing demographic factors such as race, income, and gender with SAT scores is a good way to determine whether the SAT is a fair test. For example, if certain racial groups consistently perform better on the SAT, we would have some evidence that the SAT is unfair.
-
-In another lesson, we began performing some analysis. We'll extend that analysis in this lesson. As you can see, we've included the code to read in all of the data, combine it, and create correlations in the notebook. If you'd like to see the finished notebook that contains solutions for all of the steps, you can find it in the GitHub repo for this lesson.
